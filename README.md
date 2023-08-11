@@ -18,6 +18,13 @@ Here are some of the skills and technologies I'm familiar with:
 - **Database:** MongoDB
 - **Operating System:** Linux (Basics)
 - **Version Control:** Git
+## Projects
+
+I've worked on a variety of projects, showcasing my skills in web development. Some of my notable projects include:
+
+- [Project Name 1](Link to Project 1): A brief description of what the project is about and your role.
+- [Project Name 2](Link to Project 2): A brief description of what the project is about and your role.
+- [Project Name 3](Link to Project 3): A brief description of what the project is about and your role.
 
 ## Projects
 
