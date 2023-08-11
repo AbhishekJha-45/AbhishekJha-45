@@ -18,21 +18,13 @@ Here are some of the skills and technologies I'm familiar with:
 - **Database:** MongoDB
 - **Operating System:** Linux (Basics)
 - **Version Control:** Git
-## Projects
-
-I've worked on a variety of projects, showcasing my skills in web development. Some of my notable projects include:
-
-- [Project Name 1](Link to Project 1): A brief description of what the project is about and your role.
-- [Project Name 2](Link to Project 2): A brief description of what the project is about and your role.
-- [Project Name 3](Link to Project 3): A brief description of what the project is about and your role.
 
 ## Projects
 
 I've worked on a variety of projects, showcasing my skills in web development. Some of my notable projects include:
 
 - Full Stack Portfolio Blog Website (On Going Project ): This project is being build completely by me.
-- 
--KrishiBazar: Project which includes authentication & authorizattion along with the dashboard for both seller and the buyer.The project now belongs to Ministry of health and urban affairs as it was built during my internsip with the DAY-NULM
+- KrishiBazar: Project which includes authentication & authorizattion along with the dashboard for both seller and the buyer.The project now belongs to Ministry of health and urban affairs as it was built during my internsip with the DAY-NULM
 
 ## Contact Me
 
