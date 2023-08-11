@@ -24,8 +24,7 @@ Here are some of the skills and technologies I'm familiar with:
 I've worked on a variety of projects, showcasing my skills in web development. Some of my notable projects include:
 
 - Full Stack Portfolio Blog Website (On Going Project ): This project is being build completely by me.
-
-Feel free to check out my GitHub repositories for more projects and contributions.
+-KrishiBazar (Project which includes authentication & authorizattion along with the dashboard for both seller and the buyer.The project now belongs to Ministry of health and urban affairs as it was built during my internsip with the DAY-NULM)
 
 ## Contact Me
 
