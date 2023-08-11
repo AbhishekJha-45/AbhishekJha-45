@@ -32,7 +32,7 @@ I've worked on a variety of projects, showcasing my skills in web development. S
 
 - Full Stack Portfolio Blog Website (On Going Project ): This project is being build completely by me.
 - 
--KrishiBazar (Project which includes authentication & authorizattion along with the dashboard for both seller and the buyer.The project now belongs to Ministry of health and urban affairs as it was built during my internsip with the DAY-NULM)
+-KrishiBazar: Project which includes authentication & authorizattion along with the dashboard for both seller and the buyer.The project now belongs to Ministry of health and urban affairs as it was built during my internsip with the DAY-NULM
 
 ## Contact Me
 
