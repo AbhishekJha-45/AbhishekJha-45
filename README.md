@@ -30,7 +30,8 @@ I've worked on a variety of projects, showcasing my skills in web development. S
 
 - LinkedIn: https://www.linkedin.com/in/abhishek-kr-jha-2552ba243/
 - Email: krjha36555@gmail.com
-- Portfolio:( https://abhishek-jha-portfolio.vercel.app)
+- Portfolio: https://abhishek-jha-portfolio.vercel.app
+
 Let's connect and collaborate to create amazing web experiences!
 
 
