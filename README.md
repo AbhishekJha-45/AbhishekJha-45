@@ -14,7 +14,7 @@ I'm a passionate web developer currently pursuing my B.Tech from SRM Institute o
 Here are some of the skills and technologies I'm familiar with:
 
 - **Frontend Development:** HTML, CSS, JavaScript, Next.js, React.js, Tailwind CSS
-- **Backend Development:** Node.js
+- **Backend Development:** Node.js ,Express js
 - **Database:** MongoDB
 - **Operating System:** Linux (Basics)
 - **Version Control:** Git
