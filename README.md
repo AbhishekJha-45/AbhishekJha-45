@@ -13,6 +13,9 @@ I'm a passionate web developer currently pursuing my B.Tech from SRM Institute o
 
 Here are some of the skills and technologies I'm familiar with:
 
+- **Programming Languages:**
+- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python&perline=7)](https://skillicons.dev)
+
 - **Frontend Development:**
 - [![My Skills](https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,js&perline=7)](https://skillicons.dev)
 
@@ -20,12 +23,16 @@ Here are some of the skills and technologies I'm familiar with:
 - [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&perline=7)](https://skillicons.dev)
 - **Database:**
 - [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=7)](https://skillicons.dev)
+
 - **Operating System:**
 - [![My Skills](https://skillicons.dev/icons?i=linux&perline=7)](https://skillicons.dev)
+
 - **Version Control:**
 - [![My Skills](https://skillicons.dev/icons?i=git,github&perline=7)](https://skillicons.dev)
+
 - **Tools:**
 - [![My Skills](https://skillicons.dev/icons?i=postman,vscode,webstorm,figma,blender&perline=7)](https://skillicons.dev)
+
 
 ## Projects
 
