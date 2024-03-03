@@ -44,4 +44,4 @@ Let's connect and collaborate to create amazing web experiences!
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=AbhishekJha-45&show_icons=true)       ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJha-45)
 
-![](https://komarev.com/ghpvc/?username=AbhishekJha-45&style=flat-square)
+![](https://komarev.com/ghpvc/?username=AbhishekJha-45&style=flat-square&style=for-the-badge)
