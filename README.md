@@ -44,4 +44,4 @@ Let's connect and collaborate to create amazing web experiences!
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=AbhishekJha-45&show_icons=true)
 
-![Visitor Count]([https://profile-counter.glitch.me/AbhishekJha-45/count.svg](https://github.com/AbhishekJha-45/github-readme-streak-stats)https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub Streak](https://git.io/streak-stats)
