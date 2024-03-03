@@ -42,4 +42,6 @@ Let's connect and collaborate to create amazing web experiences!
 
 
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=AbhishekJha-45&show_icons=true) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJha-45)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=AbhishekJha-45&show_icons=true)       ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekJha-45)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AbhishekJha-45.AbhishekJha-45)
