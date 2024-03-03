@@ -14,10 +14,10 @@ I'm a passionate web developer currently pursuing my B.Tech from SRM Institute o
 Here are some of the skills and technologies I'm familiar with:
 
 - **Frontend Development:**
-- [![My Skills](https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,js&perline=7)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,js&perline=7)](https://skillicons.dev)
 
 - **Backend Development:**
-- [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&perline=7)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&perline=7)](https://skillicons.dev)
 - **Database:** MongoDB
 - **Operating System:** Linux (Basics)
 - **Version Control:** Git
