@@ -18,7 +18,8 @@ Here are some of the skills and technologies I'm familiar with:
 
 - **Backend Development:**
 - [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&perline=7)](https://skillicons.dev)
-- **Database:** MongoDB
+- **Database:**
+- [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=7)](https://skillicons.dev)
 - **Operating System:** Linux (Basics)
 - **Version Control:** Git
 
