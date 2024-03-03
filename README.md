@@ -13,19 +13,19 @@ I'm a passionate web developer currently pursuing my B.Tech from SRM Institute o
 
 Here are some of the skills and technologies I'm familiar with:
 
-- **Frontend Development:** HTML, CSS, JavaScript, ![Next.js](https://img.icons8.com/color/48/000000/next.png), ![React.js](https://img.icons8.com/ultraviolet/40/000000/react.png), ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+- **Frontend Development:** HTML, CSS, JavaScript, Next.js, React.js, Tailwind CSS
 
-- **Backend Development:** ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png), ![Express.js](https://img.icons8.com/ios-filled/50/000000/express.png)
-- **Database:** ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+- **Backend Development:** Node.js ,Express js
+- **Database:** MongoDB
 - **Operating System:** Linux (Basics)
-- **Version Control:** ![Git](https://img.icons8.com/color/48/000000/git.png)
+- **Version Control:** Git
 
 ## Projects
 
 I've worked on a variety of projects, showcasing my skills in web development. Some of my notable projects include:
 
 - Full Stack Portfolio Blog Website (On Going Project ): This project includes authentication , authorization with jwt and it includes a api server for data fertching and all other crud opertaion on the mongoDb database from nextjs web application.
-- KrishiBazar: Project which includes authentication & authorizattion along with the dashboard for both seller and the buyer. The project now belongs to Ministry of health and urban affairs as it was built during my internsip with the DAY-NULM
+- KrishiBazar: Project which includes authentication & authorizattion along with the dashboard for both seller and the buyer.The project now belongs to Ministry of health and urban affairs as it was built during my internsip with the DAY-NULM
 
 ## Contact Me
 
@@ -35,5 +35,6 @@ I've worked on a variety of projects, showcasing my skills in web development. S
 
 Let's connect and collaborate to create amazing web experiences!
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=AbhishekJha-45&show_icons=true)
 
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=AbhishekJha-45&show_icons=true)
