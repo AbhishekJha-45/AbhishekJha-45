@@ -40,6 +40,7 @@ I've worked on a variety of projects, showcasing my skills in web development. S
 
 - Full Stack Portfolio Blog Website (On Going Project ): This project includes authentication , authorization with jwt and it includes a api server for data fertching and all other crud opertaion on the mongoDb database from nextjs web application.
 - KrishiBazar: Project which includes authentication & authorizattion along with the dashboard for both seller and the buyer.The project now belongs to Ministry of health and urban affairs as it was built during my internsip with the DAY-NULM
+- 🎥 Video Content Management: Developing an advanced video platform with seamless user authentication, video uploading, thumbnail management, playlist creation, and engaging user interaction features.
 
 ## Contact Me
 
