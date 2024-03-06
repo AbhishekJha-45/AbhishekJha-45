@@ -31,7 +31,7 @@ Here are some of the skills and technologies I'm familiar with:
 - [![My Skills](https://skillicons.dev/icons?i=git,github&perline=7)](https://skillicons.dev)
 
 - **Tools:**
-- [![My Skills](https://skillicons.dev/icons?i=postman,vscode,webstorm,figma,blender&perline=7)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=postman,vscode,webstorm,figma,blender,docker&perline=7)](https://skillicons.dev)
 
 
 ## Projects
