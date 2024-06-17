@@ -14,7 +14,7 @@ I'm a passionate web developer currently pursuing my B.Tech from SRM Institute o
 Here are some of the skills and technologies I'm familiar with:
 
 - **Programming Languages:**
-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python&perline=7)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java&perline=7)](https://skillicons.dev)
 
 - **Frontend Development:**
 - [![My Skills](https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,js&perline=7)](https://skillicons.dev)
