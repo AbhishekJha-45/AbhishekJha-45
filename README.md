@@ -43,7 +43,6 @@ I've worked on a variety of projects, showcasing my skills in web development. S
 - 🎥 Video Content Management: Developing an advanced video platform with seamless user authentication, video uploading, thumbnail management, playlist creation, and engaging user interaction features.
 
 ## Contact Me
-- Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abhishek-jha-2552ba243
 - LinkedIn: https://www.linkedin.com/in/abhishek-kr-jha-2552ba243/
 - Portfolio: https://abhishek-jha-portfolio.vercel.app
 - Email: krjha36555@gmail.com
