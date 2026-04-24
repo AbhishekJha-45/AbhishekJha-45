@@ -53,7 +53,7 @@ I've worked on a variety of projects, showcasing my skills in full stack web dev
 
 ## Contact Me
 
-- LinkedIn: [https://www.linkedin.com/in/abhishek-kr-jha-2552ba243/](https://www.linkedin.com/in/abhishek-kr-jha-2552ba243/)
+- LinkedIn: [https://www.linkedin.com/in/abhishek-jha-nextjs-dev/]([https://www.linkedin.com/in/abhishek-kr-jha-2552ba243/](https://www.linkedin.com/in/abhishek-jha-nextjs-dev/))
 - Portfolio: [https://abhishek-jha-portfolio.vercel.app](https://abhishek-jha-portfolio.vercel.app)
 - Email: [krjha36555@gmail.com](mailto:krjha36555@gmail.com)
 
