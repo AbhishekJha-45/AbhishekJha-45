@@ -37,11 +37,19 @@ Here are some of the skills and technologies I'm familiar with:
 
 ## Projects
 
-I've worked on a variety of projects, showcasing my skills in web development. Some of my notable projects include:
+I've worked on a variety of projects, showcasing my skills in full stack web development. Some of my notable projects include:
 
-- 📚 **Full Stack Portfolio Blog Website (Ongoing):** Includes authentication and authorization with JWT, along with a dedicated API server for data fetching and full CRUD operations on a MongoDB database from a Next.js web application.
-- 🌾 **KrishiBazar:** A platform with authentication & authorization and dashboards for both sellers and buyers. This project now belongs to the Ministry of Housing and Urban Affairs, built during my internship with DAY-NULM.
-- 🎥 **Video Content Management Platform:** An advanced video platform with user authentication, video uploading, thumbnail management, playlist creation, and engaging user interaction features.
+1. **Headless Content Management System (Next.js, Express, PostgreSQL, AWS):**  
+   Developed and deployed a custom CMS using Next.js for the frontend, Express for the API layer, and PostgreSQL as the primary database, hosted and scaled on AWS.
+
+2. **Study Abroad Consulting Website (CMS-Driven):**  
+   Built a complete website for a study abroad consulting agency and fully integrated it with the above CMS to enable dynamic content management and streamlined workflows.
+
+3. **Medical Records Management System (GCP Deployment):**  
+   Designed and implemented a medical records management system on the same tech stack and deployed it to the client’s server infrastructure on Google Cloud.
+
+4. **Hospital Management System (1M+ Active Users):**  
+   Developed a production-grade hospital management system for one of the companies I’ve worked with, serving over 1 million active users with high availability and performance.
 
 ## Contact Me
 
